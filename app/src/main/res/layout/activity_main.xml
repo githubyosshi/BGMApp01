@@ -25,6 +25,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/start_button"
+            android:textSize="36sp"
             tools:layout_editor_absoluteX="148dp"
             tools:layout_editor_absoluteY="51dp" />
 
@@ -33,6 +34,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/stop_button"
+            android:textSize="36sp"
             tools:layout_editor_absoluteX="148dp"
             tools:layout_editor_absoluteY="155dp" />
     </LinearLayout>
